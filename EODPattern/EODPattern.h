@@ -1,0 +1,8 @@
+//
+// Created by 黄鸿 on 2023/4/22.
+//
+
+#ifndef REDOSHUNTER_EODPATTERN_H
+#define REDOSHUNTER_EODPATTERN_H
+
+#endif //REDOSHUNTER_EODPATTERN_H
